@@ -1,11 +1,3 @@
-/**
- * Copyright(c) Alibaba Group Holding Limited.
- *
- * Authors:
- *   兴斋 <xingzhai.xxw@alibaba-inc.com> (https://www.gistop.com/)
- */
-
-
 import React from 'react';
 import PropTypes from 'prop-types';
 
